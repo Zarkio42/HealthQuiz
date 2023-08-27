@@ -1,0 +1,75 @@
+segurança
+saúde
+transporte
+turismo
+educação
+comércio
+saneamento básico
+cultura
+
+--------------------
+
+saúde ----> saneamento básico
+educação
+
+Saúde:
+
+1- Falta de estilo de vida saudável.
+
+2- Falta de profissional qualificado.
+
+3- Falta de acessibilidade a infraestrutura adequada.
+
+4 - Falta de acessibilidade para PCD no atendimento da rede de saúde pública.
+
+------------------------------
+
+Site Saúde:
+
+Quiz de saúde
+
+- Área de cadastro
+- Perguntas
+- Resultado (com mapa por região)
+
+1 - Você passa fio dental todos os dias?
+
+2 - Você Fuma?
+
+3 - Você inclui frutas e verduras na sua alimentação diária?
+
+4 - Você consome bebidas alcólicas?
+
+5 - Você pratica regularmente atividades fisicas?
+
+6 - Você tem alguma doença que exige uso contínuo de medicamentos?
+
+7 - Você faz exames preventivos todos os anos (ex. papanicolau, mamografia, etc)?
+
+8 - Sua carteirinha de vacinas está atualizada?
+
+9 - Você tem acesso à profissionais de saúde na área da psicologia?
+
+10 - Você bebe pelo menos 8 copos de água por dia? (Uma recomendação comum é a "regra dos 8 copos", que sugere
+                                                que as pessoas bebam pelo menos oito copos de 200 ml de água por dia, totalizando cerca de 1,6 litros de água.)
+
+11 - Você costuma dormir dentro da quantidade recomendada para sua faixa etária?
+Recém-nascidos (0-3 meses): 14 a 17 horas por dia
+Bebês (4-11 meses): 12 a 15 horas por dia
+Crianças em idade pré-escolar (1-2 anos): 11 a 14 horas por dia
+Crianças em idade escolar (3-5 anos): 10 a 13 horas por dia
+Crianças em idade escolar (6-13 anos): 9 a 11 horas por dia
+Adolescentes (14-17 anos): 8 a 10 horas por dia
+Jovens adultos (18-25 anos): 7 a 9 horas por dia
+Adultos (26-64 anos): 7 a 9 horas por dia
+Idosos (65 anos ou mais): 7 a 8 horas por dia
+
+--------------------------------------------------------------------
+
+O principal objetivo do nosso sistema é a captação de dados para pesquisa de saúde pública por regiões. Com base nisso
+iremos fornecer uma orientação para hábitos mais saudáveis.
+
+hábitos saudáveis com base nas respostas apresentadas.
+
+
+
